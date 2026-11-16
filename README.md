@@ -74,3 +74,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 The simulation runs at a fixed 60 Hz, decoupled from rendering; all state
 lives in one object; tracers, particles and grenades are pooled, so the
 hot loops allocate nothing per frame.
+
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/imamiyadah/tactical-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/imamiyadah/tactical-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
